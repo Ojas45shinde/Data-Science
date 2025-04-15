@@ -7,7 +7,7 @@ in data science and machine learning.
 
 Here’s a brief list of the projects currently included:
 
-- **[Project Name 1]( SVM Classification )**  
+- **[Project 1]( SVM Classification )**  
   *SVM classification using in built dataset (digits_dataset)*
 
 
