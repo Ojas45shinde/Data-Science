@@ -8,10 +8,10 @@ in data science and machine learning.
 Here’s a brief list of the projects currently included:
 
 - **[Project 1]( SVM Classification )**  
-  *SVM classification using in built dataset (digits_dataset)*
+  SVM classification using in built dataset (digits_dataset)
   
-- **[Project 1]( Decision Tree Classifier )**  
-  *SVM classification using Weather_Nb dataset *
+- **[Project 2]( Decision Tree Classifier )**  
+  Decision Tree classification using Weather_Nb dataset 
 
 ## 📦 Tech Stack
 
